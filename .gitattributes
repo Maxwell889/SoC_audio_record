@@ -1,0 +1,36 @@
+* text=auto
+
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+*.c text eol=lf
+*.h text eol=lf
+*.s text eol=lf
+*.S text eol=lf
+*.ld text eol=lf
+*.icf text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.v text eol=lf
+*.sv text eol=lf
+*.vh text eol=lf
+*.qsf text eol=lf
+*.qpf text eol=lf
+*.qip text eol=lf
+*.tcl text eol=lf
+*.pl text eol=lf
+*.py text eol=lf
+
+*.pdf binary
+*.pptx binary
+*.axf binary
+*.out binary
+*.o binary
+*.a binary
+*.so binary
+*.rbe binary
+*.ebf binary
+*.wlf binary
+*.qdb binary
+*.cdb binary
+*.hdb binary
